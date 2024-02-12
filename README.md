@@ -1,23 +1,23 @@
 # naveen.github.io
 
-Data Scientist
+### Data Scientist
 Machine Learning Models: Classification models, Regression models, Clustering, predictive models
-•Programming Languages: Python, C, C++
-•Business Intelligence Tools: Tableau, PowerBI, Key Performance indicators, Excel
-•Database: SQL, NOSQL, MySQL, MSSQL, T-SQL, PostgreSQL
-•IDE: Jupyter, JupyterLab, Anaconda
-•Cloud Platforms: AWS, Google Cloud, Azure, Databricks
-•Project Management: Jira, Business Process, business objectives, communication skills, end-to-end
-•Web Development: HTML, CSS, JavaScript
-•Operating Systems: Windows, Linux
-•Version Control: Git
+- Programming Languages: Python, C, C++
+- Business Intelligence Tools: Tableau, PowerBI, Key Performance indicators, Excel
+- Database: SQL, NOSQL, MySQL, MSSQL, T-SQL, PostgreSQL
+- IDE: Jupyter, JupyterLab, Anaconda
+- Cloud Platforms: AWS, Google Cloud, Azure, Databricks
+- Project Management: Jira, Business Process, business objectives, communication skills, end-to-end
+- Web Development: HTML, CSS, JavaScript
+- Operating Systems: Windows, Linux
+- Version Control: Git
 •Data Visualization, Data Analytics, Data Processing, Artificial Intelligence, deep learning, TensorFlow
 •Recommender System, data-driven, neural networks, Decision Trees and Random Forest
 •Statistical Analysis, Statistics, gaming, cross functional, structured, Numpy, Pandas
-Education
+### Education
 Masters, Computer and Information Systems | Texas A&M university at Commerce (May 2024)
 Bachelors, Information Technology | Gitam University (May 2020)
-Work Experience
+### Work Experience
 Internship Trainee @ BEPEC SOLUTIONS (February 2023 - Present)
 
 Conducted exploratory data analysis (EDA) on large datasets to identify trends and patterns.
